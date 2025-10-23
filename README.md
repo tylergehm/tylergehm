@@ -9,6 +9,9 @@
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/tylergehm/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/tylergehm/azure-network-protocols)
+- <b>Virtual Private Network</b>
+  - [Analyzing VPN Setup and Usage within Microsoft Azure](https://github.com/tylergehm/vpn-setup)
+
 
 <h2> 🌎📱🌏 Connect with me: </h2>
 
