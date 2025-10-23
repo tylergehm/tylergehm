@@ -7,6 +7,7 @@
   - [osTicket: Post-Installation Configuration](https://github.com/tylergehm/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/tylergehm/ticket-lifecycle)
 - <b>Microsoft Azure</b>
+  - [Creating a Virtual Machine from Scratch](https://github.com/tylergehm/vm)
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/tylergehm/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/tylergehm/azure-network-protocols)
 - <b>Virtual Private Network</b>
