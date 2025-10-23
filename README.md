@@ -1,4 +1,4 @@
-<h1>Hi, I'm Tyler, an <a href="https://linkedin.com/in/tylergehm">IT Professional</a>. 🖥️👨‍💻⌨️💻🖱️📱🖥️ </h1>
+<h1>Hi, I'm Tyler, an <a href="https://linkedin.com/in/tylergehm">IT Professional</a>. 🖥️👨‍💻🖥️ </h1>
 
 <h2>💻 Information Technology Projects:</h2>
 
@@ -10,7 +10,7 @@
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/tylergehm/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/tylergehm/azure-network-protocols)
 
-<h2>🤳Connect with me:</h2>
+<h2>📱Connect with me:</h2>
 
 [<img align="left" alt="Tyler | LinkedIn" width="44px" src="assets/linkedin-bright.svg" />][linkedin]
 
