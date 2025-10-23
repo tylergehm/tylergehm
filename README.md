@@ -1,4 +1,4 @@
-<h1>Hi, I'm Tyler, an <a href="https://linkedin.com/in/tylergehm">IT Professional</a>. 🖥️👨‍💻🖥️ </h1>
+<h1>Hello, I am Tyler, an <a href="https://linkedin.com/in/tylergehm">IT Professional</a> 🖥️👨‍💻🖥️ </h1>
 
 <h2>💻 Information Technology Projects:</h2>
 
