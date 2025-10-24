@@ -1,4 +1,10 @@
-<h1>Hello, I am Tyler, an <a href="https://linkedin.com/in/tylergehm">IT Professional</a> 🖥️👨‍💻🖥️ </h1>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/tylergehm/tylergehm/main/github%20banner.jpg" alt="GitHub banner" style="max-width:100%;height:auto;" />
+</p>
+
+<h1><p align="center">
+  <strong>Hello, I am Tyler, an <a href="https://linkedin.com/in/tylergehm">IT Professional</a> 🖥️👨‍💻🖥️</strong>
+</p> </h1>
 
 <h2>💻 Information Technology Projects:</h2>
 
