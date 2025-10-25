@@ -15,7 +15,10 @@
 - <b>Microsoft Azure</b>
   - [Creating a Virtual Machine in Azure Portal](https://github.com/tylergehm/vm)
   - [Network Security Groups (NSGs) and Inspecting Network Protocol Traffic with Wireshark](https://github.com/tylergehm/azure-network-protocols)
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/tylergehm/configure-ad)
+- <b>Microsoft Active Directory</b>
+  - [Configuring Active Directory within Azure VMs](https://github.com/tylergehm/configure-ad)
+  - [Managing Active Directory Accounts and Group Policy](https://github.com/tylergehm/ad-accountsgp)
+
 - <b>Virtual Private Network</b>
   - [Analyzing VPN Setup and Usage within Microsoft Azure](https://github.com/tylergehm/vpn-setup)
 
