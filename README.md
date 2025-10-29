@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/tylergehm/tylergehm/main/github%20banner.jpg" alt="GitHub banner" style="max-width:100%;height:auto;" />
+  <img src="https://raw.githubusercontent.com/tylergehm/tylergehm/main/tgbanner.png" alt="GitHub banner" style="max-width:100%;height:auto;" />
 </p>
 
 <h1><p align="center">
