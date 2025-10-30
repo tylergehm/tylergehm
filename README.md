@@ -20,9 +20,14 @@
   - [Managing Active Directory Accounts and Group Policy](https://github.com/tylergehm/ad-accountsgp)
 
 - <b>Virtual Private Network</b>
-  - [Analyzing VPN Setup and Usage within Microsoft Azure](https://github.com/tylergehm/vpn-setup)
+  - [VPN Setup and Usage within Microsoft Azure Virtual Machines](https://github.com/tylergehm/vpn-setup)
 
-
+- <b>Tier-1 Troubleshooting: Common Fixes</b>
+  - [Printers: Offline, Jams, and Drivers](https://github.com/tylergehm/printers)
+  - [Wi-Fi: No Connection, Drops, and Speed](https://github.com/tylergehm/wifi)
+  - [Windows: Slow Boot, Crashes, and Updates](https://github.com/tylergehm/windows)
+  - [Applications: Crashes, Won't Open, Errors](https://github.com/tylergehm/applications)
+  
 <h2> 🌎📱🌏 Connect with me: </h2>
 
 [<img align="left" alt="Tyler | LinkedIn" width="44px" src="assets/linkedin-bright.svg" />][linkedin]
