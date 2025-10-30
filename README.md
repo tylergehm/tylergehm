@@ -25,8 +25,7 @@
 - <b>Tier-1 Troubleshooting: Common Fixes</b>
   - [Printers: Offline, Jams, and Drivers](https://github.com/tylergehm/printers)
   - [Wi-Fi: No Connection, Drops, and Speed](https://github.com/tylergehm/wifi)
-  - [Windows: Slow Boot, Crashes, and Updates](https://github.com/tylergehm/windows)
-  - [Applications: Crashes, Won't Open, Errors](https://github.com/tylergehm/applications)
+
   
 <h2> 🌎📱🌏 Connect with me: </h2>
 
