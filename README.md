@@ -15,6 +15,7 @@
 - <b>Microsoft Azure</b>
   - [Creating Virtual Machines in Azure Portal](https://github.com/tylergehm/vm)
   - [Network Security Groups (NSGs) and Inspecting Network Protocol Traffic with Wireshark](https://github.com/tylergehm/azure-network-protocols)
+  - [Azure DNS Fundamentals: Managing A-Records, CNAMEs, and DNS Cache](https://github.com/tylergehm/dns)
 - <b>Microsoft Active Directory</b>
   - [Configuring Active Directory within Azure VMs](https://github.com/tylergehm/configure-ad)
   - [Managing Active Directory Accounts and Group Policy](https://github.com/tylergehm/ad-accountsgp)
