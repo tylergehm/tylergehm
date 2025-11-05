@@ -19,6 +19,7 @@
 - <b>Microsoft Active Directory</b>
   - [Configuring Active Directory within Azure VMs](https://github.com/tylergehm/configure-ad)
   - [Managing Active Directory Accounts and Group Policy](https://github.com/tylergehm/ad-accountsgp)
+  - [File Shares: Mastering Permissions with Security Groups](https://github.com/tylergehm/permissions)
 
 - <b>Virtual Private Network</b>
   - [VPN Setup and Usage within Microsoft Azure Virtual Machines](https://github.com/tylergehm/vpn-setup)
