@@ -11,7 +11,7 @@
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Building a Helpdesk with IIS, PHP, and MySQL](https://github.com/tylergehm/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/tylergehm/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/tylergehm/ticket-lifecycle)
+  - [osTicket in Action: End-to-End Ticket Management and Helpdesk Workflow Simulation](https://github.com/tylergehm/ticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Creating Virtual Machines in Azure Portal](https://github.com/tylergehm/vm)
   - [Network Security Groups (NSGs) and Inspecting Network Protocol Traffic with Wireshark](https://github.com/tylergehm/azure-network-protocols)
