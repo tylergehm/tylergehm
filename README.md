@@ -9,7 +9,7 @@
 <h2>💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [Building osTicket Support Ticketing System from scratch](https://github.com/tylergehm/osticket-prereqs)
+  - [osTicket: Building a Support Ticketing System from scratch](https://github.com/tylergehm/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/tylergehm/post-install-config)
   - [osTicket in Action: End-to-End Ticket Management and Helpdesk Workflow Simulation](https://github.com/tylergehm/ticket-lifecycle)
 - <b>Microsoft Azure</b>
