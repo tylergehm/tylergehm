@@ -29,8 +29,7 @@
   - [Wi-Fi: No Connection, Drops, and Speed](https://github.com/tylergehm/wifi)
 
   
-<h2> 🌎📱🌏 Connect with me: </h2>
-
+## 📱🌎💻 Connect with me 💻🌏📱 
 [<img align="left" alt="Tyler | LinkedIn" width="44px" src="assets/linkedin-bright.svg" />][linkedin]
 
 [linkedin]: https://linkedin.com/in/tylergehm
