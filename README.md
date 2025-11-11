@@ -24,7 +24,7 @@
 - <b>Virtual Private Network</b>
   - [VPN Setup and Usage within Microsoft Azure Virtual Machines](https://github.com/tylergehm/vpn-setup)
  
-- <b>Tier-1 Troubleshooting: Common Fixes References</b>
+- <b>Tier-1 Troubleshooting: Common Fix References</b>
   - [Printers: Offline, Jams, and Drivers](https://github.com/tylergehm/printers)
   - [Wi-Fi: No Connection, Drops, and Speed](https://github.com/tylergehm/wifi)
 
